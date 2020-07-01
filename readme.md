@@ -1,4 +1,4 @@
-## Clone da interfaced gráfica do discord
+## Clone da interface gráfica do discord
 
 **Bibliotecas utilizadas**
 * React
