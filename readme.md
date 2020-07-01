@@ -4,4 +4,4 @@
 * React
 * StyledComponents
 
-![](discordUI.png)
+![](discordUI.PNG)
